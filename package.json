@@ -1,6 +1,6 @@
 {
-	"author": "Preet Kaur",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Preet Kaur",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Preet1913/boilerplate-npm/blob/gomix/package.json"
 	}
 }
