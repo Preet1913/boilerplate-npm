@@ -1,9 +1,10 @@
 {
+	"author": "Preet Kaur",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Preet Kaur",
+	
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
